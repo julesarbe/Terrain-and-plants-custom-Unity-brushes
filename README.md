@@ -12,3 +12,5 @@ Terrain Brushes:
 Instance Brushes:
 - Grid instance for cultures
 - Vegetation brush creating forest from the biome (here only height)
+
+A demo video is available here: https://youtu.be/b29lKXx9yKI
